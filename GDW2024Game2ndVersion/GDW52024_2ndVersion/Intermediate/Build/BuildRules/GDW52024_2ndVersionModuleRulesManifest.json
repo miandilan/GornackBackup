@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"C:\\Users\\Ethan\\Documents\\Unreal Projects\\Gornack3rdVersion\\GDW2024Game2ndVersion\\GDW52024_2ndVersion\\Source\\GDW52024_2ndVersion\\GDW52024_2ndVersion.Build.cs",
+		"C:\\Users\\Ethan\\Documents\\Unreal Projects\\Gornack3rdVersion\\GDW2024Game2ndVersion\\GDW52024_2ndVersion\\Source\\GDW52024_2ndVersion.Target.cs",
+		"C:\\Users\\Ethan\\Documents\\Unreal Projects\\Gornack3rdVersion\\GDW2024Game2ndVersion\\GDW52024_2ndVersion\\Source\\GDW52024_2ndVersionEditor.Target.cs"
+	],
+	"EngineVersion": "5.3.2"
+}
